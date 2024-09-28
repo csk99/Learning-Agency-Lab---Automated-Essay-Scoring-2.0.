@@ -86,5 +86,14 @@ $\[
     └── plots.py                <- Code to create visualizations
 ```
 
+
+## Notes
+
+In order to run the following notebook, you need GPUs.
+We recommend the following:
+* Use the kaggle environment (which has more GPUs available) especially for the '1.0' notebook. You will need to create an account.</br>
+* Import the data within your Google drive account and create a Google colab notebook linked to your Drive account.</br>
+
+
 --------
 
