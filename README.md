@@ -94,7 +94,7 @@ We recommend the following:
 * Use the kaggle environment (which has more GPUs available) especially for the '1.0' notebook. You will need to create an account.</br>
 * Import the data within your Google drive account and create a Google colab notebook linked to your Drive account.</br>
 
-Please refer to the project documentation <a href="https://github.com/csk99/Learning-Agency-Lab---Automated-Essay-Scoring-2.0./tree/main/reports">here</a> 
+Please refer to the project documentation <a href="https://github.com/csk99/Learning-Agency-Lab---Automated-Essay-Scoring-2.0./blob/main/references/approaches-explantations.md">here</a> 
 
 
 --------
